@@ -1,6 +1,8 @@
 {
   "name": "homepage",
   "version": "0.1.0",
+  "description": "A customizable browser home page for you",
+  "author": "ghostsf <ghostsf2016@gmail.com>",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
