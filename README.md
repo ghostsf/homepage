@@ -1,7 +1,9 @@
 # homepage
 > A customizable browser home page for you
 
+
 ## Project setup
+
 ```
 yarn install
 ```
@@ -25,4 +27,10 @@ yarn run test
 ```
 yarn run lint
 ```
+
+## Todo
+
+* [ ] 多渠道搜索聚合
+* [ ] 消息聚合
+* [ ] 浏览记录和统计
 
